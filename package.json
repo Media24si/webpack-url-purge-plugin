@@ -1,0 +1,26 @@
+{
+  "name": "webpack-url-purge-plugin",
+  "version": "0.0.1",
+  "description": "Webpack url purge plugin for purging provided urls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "purge",
+    "url"
+  ],
+  "author": "Jernej Pogačar",
+  "license": "MIT",
+  "homepage": "https://github.com/Media24si/webpack-url-purge-plugin",
+  "bugs": "https://github.com/Media24si/webpack-url-purge-plugin/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Media24si/webpack-url-purge-plugin"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
