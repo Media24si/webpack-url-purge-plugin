@@ -21,6 +21,6 @@
     "url": "https://github.com/Media24si/webpack-url-purge-plugin"
   },
   "dependencies": {
-    "request": "^2.81.0"
+    "request": "^2.88.0"
   }
 }
